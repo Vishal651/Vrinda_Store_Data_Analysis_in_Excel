@@ -1,4 +1,4 @@
-# Vrinda_Store_Data_Analysis
+# Vrinda_Store_Data_Analysis_in_Excel
 
 **Vrinda Store Data Analysis**
 
